@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "OdsToSelenium (con ODS)",
+      "request": "launch",
+      "mainClass": "ods.OdsToSelenium",
+      "projectName": "cargaPep",
+      "args": [
+        "D:\\Descargas\\CAP_2025_descargas\\pruebaRealDEF.ods"
+      ],
+      "cwd": "${workspaceFolder}",
+      "env": { "JAVA_TOOL_OPTIONS": "" }
+    }
+  ]
+}

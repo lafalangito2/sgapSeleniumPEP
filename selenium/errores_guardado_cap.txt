@@ -1,0 +1,77 @@
+====================================================
+FECHA: 2026-02-23 21:28:20
+ORGANISMO: Consejería de Universidad, Investigación e Innovación.
+DETALLE:
+Mensaje de Error
+Se han encontrado 3 errores:DescripciónOrganismoFichero adjunto
+Ocultar
+====================================================
+FECHA: 2026-02-23 21:44:58
+ORGANISMO: Consejo Audiovisual de Andalucía.
+DETALLE:
+Mensaje de Error
+Se han encontrado 3 errores:DescripciónOrganismoFichero adjunto
+Ocultar
+====================================================
+FECHA: 2026-02-23 21:50:47
+ORGANISMO: Consejo Audiovisual de Andalucía.
+DETALLE:
+Mensaje de Error
+Se ha encontrado un errorDescripción
+Ocultar
+====================================================
+FECHA: 2026-02-23 21:54:30
+ORGANISMO: Consejo Audiovisual de Andalucía.
+DETALLE:
+Mensaje de Error
+Se ha encontrado un errorDescripción
+Ocultar
+====================================================
+FECHA: 2026-02-23 21:58:49
+ORGANISMO: Consejo Consultivo de Andalucía.
+DETALLE:
+Mensaje de Error
+Se han encontrado 4 errores:DescripciónOrganismoFichero adjuntoPlazo presentación
+Ocultar
+====================================================
+FECHA: 2026-02-23 22:04:40
+ORGANISMO: Consejo Consultivo de Andalucía.
+DETALLE:
+Mensaje de Error
+Se ha encontrado un errorPlazo presentación
+Ocultar
+====================================================
+FECHA: 2026-02-23 22:11:31
+ORGANISMO: Consejería de Industria, Energía y Minas.
+DETALLE:
+Mensaje de Error
+Se han encontrado 4 errores:DescripciónFecha de inicioFecha finalTipo de plazo
+Ocultar
+====================================================
+FECHA: 2026-02-23 22:17:21
+ORGANISMO: Consejería de Industria, Energía y Minas.
+DETALLE:
+Mensaje de Error
+Se han encontrado 3 errores:Fecha de inicioFecha finalTipo de plazo
+Ocultar
+====================================================
+FECHA: 2026-02-23 22:35:32
+ORGANISMO: Consejería de Industria, Energía y Minas.
+DETALLE:
+Mensaje de Error
+Se han encontrado 6 errores:DescripciónOrganismoFichero adjuntoFecha de inicioFecha finalTipo de plazo
+Ocultar
+====================================================
+FECHA: 2026-02-23 22:41:57
+ORGANISMO: Consejería de Industria, Energía y Minas.
+DETALLE:
+Mensaje de Error
+Se han encontrado 20 errores:Fichero adjuntoFichero adjuntoFichero adjuntoFichero adjuntoFichero adjuntoFichero adjuntoFichero adjuntoFichero adjuntoFichero adjuntoFichero adjuntoFichero adjuntoFichero adjuntoFichero adjuntoFichero adjuntoFichero adjuntoFichero adjuntoFichero adjuntoFecha de inicioFecha finalTipo de plazo
+Ocultar
+====================================================
+FECHA: 2026-02-23 23:56:31
+ORGANISMO: Consejo de Transparencia y Protección de Datos de Andalucía.
+DETALLE:
+Mensaje de Error
+Se han encontrado 2 errores:DescripciónPlazo presentación
+Ocultar
