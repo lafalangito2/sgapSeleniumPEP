@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ConteoWebyMarcar_OK3_CLEAN2",
+      "request": "launch",
+      "mainClass": "selenium.ConteoWebyMarcar_OK3_CLEAN2",
+      "projectName": "cargaPep"
+    },
+    {
+      "type": "java",
+      "name": "arregloLABORALES",
+      "request": "launch",
+      "mainClass": "arregloLABORALES",
+      "projectName": "cargaPep"
+    },
+    {
+      "type": "java",
+      "name": "EstadoPublicacionDesdeExcel",
+      "request": "launch",
+      "mainClass": "selenium.EstadoPublicacionDesdeExcel",
+      "projectName": "cargaPep"
+    },
+    {
+      "type": "java",
+      "name": "ConteoWebyMarcar_OK3_CLEAN",
+      "request": "launch",
+      "mainClass": "selenium.ConteoWebyMarcar_OK3_CLEAN",
+      "projectName": "cargaPep"
+    },
+    {
+      "type": "java",
+      "name": "ConteoWebyMarcar_OK3",
+      "request": "launch",
+      "mainClass": "selenium.ConteoWebyMarcar_OK3",
+      "projectName": "cargaPep"
+    },
+    {
+      "type": "java",
+      "name": "Paso2MarcarPorToken",
+      "request": "launch",
+      "mainClass": "selenium.Paso2MarcarPorToken",
+      "projectName": "cargaPep"
+    },
+    {
+      "type": "java",
       "name": "OdsToSelenium (con ODS)",
       "request": "launch",
       "mainClass": "ods.OdsToSelenium",
@@ -11,7 +53,65 @@
         "D:\\Descargas\\CAP_2025_descargas\\pruebaRealDEF.ods"
       ],
       "cwd": "${workspaceFolder}",
-      "env": { "JAVA_TOOL_OPTIONS": "" }
+      "env": {
+        "JAVA_TOOL_OPTIONS": ""
+      }
+    },
+    {
+      "type": "java",
+      "name": "DrupalActualizarNodos (Excel XLSX)",
+      "request": "launch",
+      "mainClass": "selenium.UpdateNodos",
+      "projectName": "cargaPep",
+      "args": [
+        "D:\\Descargas\\arregloNODOS.xlsx"
+      ],
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "JAVA_TOOL_OPTIONS": ""
+      }
+    },
+    {
+      "type": "java",
+      "name": "vacantes (Excel XLSX)",
+      "request": "launch",
+      "mainClass": "selenium.ConteoPlazasDesdeExcel",
+      "projectName": "cargaPep",
+      "args": [
+        "D:\\Descargas\\checkFaltante.xlsx"
+      ],
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "JAVA_TOOL_OPTIONS": ""
+      }
+    },
+    {
+      "type": "java",
+      "name": "vacantes (Excel XLSX)",
+      "request": "launch",
+      "mainClass": "selenium.ConteoWebyMarcar",
+      "projectName": "cargaPep",
+      "args": [
+        "D:\\Descargas\\conteoPlazas2.xlsx"
+      ],
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "JAVA_TOOL_OPTIONS": ""
+      }
+    },
+    {
+      "type": "java",
+      "name": "vacantes (Excel XLSX), con match por cualquier cosa.",
+      "request": "launch",
+      "mainClass": "selenium.ConteoWebyMarcar_OK3_CLEAN",
+      "projectName": "cargaPep",
+      "args": [
+        "D:\\Descargas\\conteoPlazas2.xlsx"
+      ],
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "JAVA_TOOL_OPTIONS": ""
+      }
     }
   ]
 }
